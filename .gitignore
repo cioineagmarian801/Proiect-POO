@@ -1,6 +1,6 @@
 abstract class Angajat{
 public abstract double calcSal();
-pulblic abstract String dateAngajat();
+public abstract String dateAngajat();
 
 }
 
